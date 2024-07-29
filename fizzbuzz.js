@@ -23,3 +23,7 @@ function changes(){
 for  (let j = 1; j < 100; i--) {
     console.log('this is another for loop')
 }
+
+for  (let f = 1; f < 100; i--) {
+    console.log('this is another for  f loop')
+}
