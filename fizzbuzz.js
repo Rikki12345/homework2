@@ -16,6 +16,10 @@ for (let i = 1; i <= 100; i++) {
     }
 }
 
-function(changes){
+function changes(){
     console.log('this will show changes made')
+}
+
+for  (let j = 1; j < 100; i--) {
+    console.log('this is another for loop')
 }
